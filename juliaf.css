@@ -7,3 +7,8 @@
     width: 20%;
 
 }
+.lista
+{
+    display: inline-block;
+    margin: 0 16px;
+}
